@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+
+# Model and tooling caches
+.huggingface/
+.cache/
+
+# Generated binary search index (JSON results remain tracked)
+results/*.npz

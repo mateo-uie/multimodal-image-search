@@ -1,0 +1,126 @@
+{
+  "name": "Multimodal image-caption dataset",
+  "language": "en",
+  "categories": [
+    {
+      "name": "Animals",
+      "items": [
+        {
+          "id": "animal_01",
+          "image": "animals/animal_01.jpg",
+          "caption": "A long-haired white Borzoi wearing a pearl necklace."
+        },
+        {
+          "id": "animal_02",
+          "image": "animals/animal_02.jpg",
+          "caption": "A small tricolor dog with black, tan, and white fur, and large, erect ears."
+        },
+        {
+          "id": "animal_03",
+          "image": "animals/animal_03.jpg",
+          "caption": "A light brown puppy sleeping peacefully curled up in a padded gray bed."
+        },
+        {
+          "id": "animal_04",
+          "image": "animals/animal_04.jpg",
+          "caption": "A tabby cat resting on a soft, cushioned surface."
+        },
+        {
+          "id": "animal_05",
+          "image": "animals/animal_05.jpg",
+          "caption": "A ring-tailed lemur (Lemur catta)."
+        }
+      ]
+    },
+    {
+      "name": "Food",
+      "items": [
+        {
+          "id": "food_01",
+          "image": "food/food_01.jpg",
+          "caption": "Xiao Long Bao (Chinese soup dumplings) served in a traditional bamboo steamer."
+        },
+        {
+          "id": "food_02",
+          "image": "food/food_02.jpg",
+          "caption": "Spanish chickpea and spinach stew."
+        },
+        {
+          "id": "food_03",
+          "image": "food/food_03.jpg",
+          "caption": "Galician empanada filled with tuna, tomato, onion, and peppers."
+        },
+        {
+          "id": "food_04",
+          "image": "food/food_04.jpg",
+          "caption": "Cooked tofu cubes served in a blue bowl with chopsticks."
+        },
+        {
+          "id": "food_05",
+          "image": "food/food_05.jpg",
+          "caption": "Traditional Spanish potato omelette (tortilla española) with a soft, juicy interior."
+        }
+      ]
+    },
+    {
+      "name": "Vehicles",
+      "items": [
+        {
+          "id": "vehicle_01",
+          "image": "vehicles/vehicle_01.jpg",
+          "caption": "A BMW M4 (G82), a high-performance luxury sports car."
+        },
+        {
+          "id": "vehicle_02",
+          "image": "vehicles/vehicle_02.jpg",
+          "caption": "A white Porsche 911 GT3 RS with black accents and red brake calipers."
+        },
+        {
+          "id": "vehicle_03",
+          "image": "vehicles/vehicle_03.jpg",
+          "caption": "A BMW X5 (LCI), a luxury midsize SUV introduced in 2023."
+        },
+        {
+          "id": "vehicle_04",
+          "image": "vehicles/vehicle_04.jpg",
+          "caption": "A Specialized Stumpjumper full-suspension trail mountain bike."
+        },
+        {
+          "id": "vehicle_05",
+          "image": "vehicles/vehicle_05.jpg",
+          "caption": "A Vespa 125 Primavera, a classic small-frame scooter by Piaggio."
+        }
+      ]
+    },
+    {
+      "name": "Landscapes",
+      "items": [
+        {
+          "id": "landscape_01",
+          "image": "landscapes/landscape_01.jpg",
+          "caption": "Panoramic view of Lishui, Zhejiang Province, China, from an elevated balcony, featuring residential buildings, wide avenues, and surrounding mountains under a partly cloudy sky."
+        },
+        {
+          "id": "landscape_02",
+          "image": "landscapes/landscape_02.jpg",
+          "caption": "Panoramic view of a mountainous landscape with multiple valleys and mountain ranges stretching into the horizon."
+        },
+        {
+          "id": "landscape_03",
+          "image": "landscapes/landscape_03.jpg",
+          "caption": "Sunny mountain landscape featuring a wide open meadow in the foreground and mountain ranges beneath a clear blue sky."
+        },
+        {
+          "id": "landscape_04",
+          "image": "landscapes/landscape_04.jpg",
+          "caption": "Deep, narrow mountain valley covered in dense vegetation, with large clouds filling most of the sky."
+        },
+        {
+          "id": "landscape_05",
+          "image": "landscapes/landscape_05.jpg",
+          "caption": "A contrast between traditional Asian architecture, a fast-food restaurant, and a lush green mountainous landscape."
+        }
+      ]
+    }
+  ]
+}
